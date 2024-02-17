@@ -1,0 +1,107 @@
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.csproj.AssemblyReference.cache
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.AssemblyInfoInputs.cache
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.AssemblyInfo.cs
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.csproj.CoreCompileInputs.cache
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\VideosAluraAPI.exe
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\VideosAluraAPI.deps.json
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\VideosAluraAPI.runtimeconfig.json
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\VideosAluraAPI.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\VideosAluraAPI.pdb
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets\msbuild.VideosAluraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VideosAluraAPI.props
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VideosAluraAPI.props
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VideosAluraAPI.props
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\scopedcss\bundle\VideosAluraAPI.styles.css
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.csproj.CopyComplete
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\refint\VideosAluraAPI.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.pdb
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.genruntimeconfig.cache
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\ref\VideosAluraAPI.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\A477017\source\repos\.NET e Bibliotecas\curso_bibliotecas-Aula01\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\VideosAluraAPI.exe
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\VideosAluraAPI.deps.json
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\VideosAluraAPI.runtimeconfig.json
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\VideosAluraAPI.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\VideosAluraAPI.pdb
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Humanizer.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.csproj.AssemblyReference.cache
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.AssemblyInfoInputs.cache
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.AssemblyInfo.cs
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.csproj.CoreCompileInputs.cache
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets\msbuild.VideosAluraAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.VideosAluraAPI.props
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.VideosAluraAPI.props
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.VideosAluraAPI.props
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\scopedcss\bundle\VideosAluraAPI.styles.css
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.csproj.CopyComplete
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\refint\VideosAluraAPI.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.pdb
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\VideosAluraAPI.genruntimeconfig.cache
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\obj\Debug\net6.0\ref\VideosAluraAPI.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\A477017\Desktop\Projetos\VideosAluraAPI\VideosAluraAPI\bin\Debug\net6.0\System.Security.Permissions.dll

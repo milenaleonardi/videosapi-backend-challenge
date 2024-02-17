@@ -1,0 +1,30 @@
+version: '3.4'
+
+services:
+  database:
+    image: mysql
+    environment:
+      - MYSQL_USER=root
+      - MYSQL_ROOT_PASSWORDD=root
+      - MYSQL_DATABAS=videosdb 
+    ports:
+      - "3306:3306"
+    volumes:
+      - /mysql-data:/var/lib/mysql/data
+    build:
+      context: ./Docker/mysql
+      dockerfile: Dockerfile
+
+  videosaluraapi:
+    image: milenaleonardi/videosaluraapi
+    environment:
+      - DB_HOST=database
+    ports:
+      - "8080:8080"
+    depends_on:
+      - database
+    build:
+      context: .
+      dockerfile: VideosAluraAPI\Dockerfile
+
+  
